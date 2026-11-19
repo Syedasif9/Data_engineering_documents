@@ -1,1 +1,1 @@
-# this repo contains Data engineering documents
+# This repo contains Data engineering documents
